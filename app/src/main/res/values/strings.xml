@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Yep!</string>
+    <string name="Signin">SIGN IN!</string>
+    <string name="username">Username</string>
+    <string name="psword">Password</string>
+    <string name="uemcosas">UEM Hardycrafter</string>
+
+</resources>

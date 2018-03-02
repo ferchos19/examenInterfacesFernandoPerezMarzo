@@ -1,0 +1,28 @@
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.fer.exameninterfacesfernandoperez.MainActivity">
+    <item
+        android:id="@+id/libro"
+        android:icon="@drawable/libro"
+        android:title="Item"
+        app:showAsAction="always"/>
+    <item
+        android:id="@+id/action_alumno"
+        android:orderInCategory="100"
+        android:title="Alumno"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_perfil"
+        android:orderInCategory="100"
+        android:title="Perfil"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/portatil"
+        android:icon="@drawable/laptop"
+        android:orderInCategory="100"
+        android:title="huella"
+        app:showAsAction="always"
+        />
+</menu>
